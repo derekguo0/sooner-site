@@ -37,7 +37,7 @@ Sooner isn't directed at children under 13 and doesn't knowingly collect their p
 
 ## Changes and contact
 
-If this policy changes, we'll update this page and its date. Questions? Email **hello@example.com**.
+If this policy changes, we'll update this page and its date. Questions? Email **derekguo0@gmail.com**.
 
 ---
 
@@ -76,4 +76,4 @@ Sooner 不面向 13 岁以下的儿童，也不会有意收集他们的个人信
 
 ## 变更与联系
 
-如果本政策有变更，我们会更新本页面及生效日期。如有疑问，请发邮件至 **hello@example.com**。
+如果本政策有变更，我们会更新本页面及生效日期。如有疑问，请发邮件至 **derekguo0@gmail.com**。

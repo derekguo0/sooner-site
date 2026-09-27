@@ -12,4 +12,4 @@ Sooner 是一款 iPhone App：对着冰箱或柜子里的东西拍一张照，�
 
 - [Privacy Policy · 隐私政策](privacy)
 - [Terms of Use · 使用条款](terms)
-- Contact · 联系：hello@example.com
+- Contact · 联系：derekguo0@gmail.com

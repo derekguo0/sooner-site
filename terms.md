@@ -30,7 +30,7 @@ Sooner is provided "as is". To the extent the law allows, we aren't liable for l
 
 ## Changes and contact
 
-We may update these terms and will change the date above when we do. Contact: **hello@example.com**.
+We may update these terms and will change the date above when we do. Contact: **derekguo0@gmail.com**.
 
 ---
 
@@ -62,4 +62,4 @@ Sooner 按「现状」提供。在法律允许的范围内，对于因依赖 App
 
 ## 变更与联系
 
-我们可能更新本条款，并会相应修改上方的生效日期。联系方式：**hello@example.com**。
+我们可能更新本条款，并会相应修改上方的生效日期。联系方式：**derekguo0@gmail.com**。
